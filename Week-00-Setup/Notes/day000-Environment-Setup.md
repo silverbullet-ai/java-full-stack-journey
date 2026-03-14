@@ -100,10 +100,6 @@ Visit:
 
 https://www.oracle.com/java/technologies/downloads/
 
-Recommended version:
-
-- Java 21 (LTS)
-
 Steps:
 
 1. Open the link
