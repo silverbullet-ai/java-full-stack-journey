@@ -98,11 +98,19 @@ Recommended versions:
 
 Visit:
 
-https://adoptium.net/
+https://www.oracle.com/java/technologies/downloads/
 
-Download:
+Recommended version:
 
-OpenJDK 17 or OpenJDK 21 depending on your preference.
+- Java 21 (LTS)
+
+Steps:
+
+1. Open the link
+2. Select Java 21
+3. Choose your OS (Windows / Linux / Mac)
+4. Download the installer
+5. Run the .exe file
 
 ---
 
