@@ -72,15 +72,7 @@ Represents a process or workflow in a system (used in industries and business pr
 
 ## Example: Flowchart to Check Even or Odd
 
-Steps:
-
-1. Start  
-2. Input number  
-3. Check if number % 2 == 0  
-4. If yes → Print "Even"  
-5. Else → Print "Odd"  
-6. End  
-
+![Even Odd Flowchart](assets/even-odd-flowchart.png)
 ---
 
 ## Real-World Applications of Flowcharts
