@@ -1,1 +1,0 @@
-phase 1 will start with day1 flowchart, then day2 algorithm then day3 pseudocode.
