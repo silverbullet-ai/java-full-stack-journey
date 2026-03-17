@@ -1,4 +1,4 @@
-# Phase 00 — Setup
+# Phase 0 — Setup
 
 ## Objective
 
