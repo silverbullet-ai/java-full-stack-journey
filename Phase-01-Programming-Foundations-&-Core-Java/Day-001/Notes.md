@@ -1,4 +1,4 @@
-# Day 001 – Flowcharts
+# Day 1 – Flowcharts
 
 ## What is a Flowchart?
 
