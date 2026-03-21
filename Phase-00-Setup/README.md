@@ -1,4 +1,4 @@
-# Phase 0 — Setup
+# Phase 00 — Setup
 
 ## Objective
 
@@ -20,11 +20,11 @@ Set up the development environment required for the Java Fullstack learning jour
 
 ### Java (JDK)
 
-Downloaded and installed JDK to compile and run Java programs.
+Installed JDK to compile and run Java programs.
 
 ### Git
 
-Installed Git and configured username and email for version control.
+Configured Git for version control with username and email.
 
 ### IntelliJ IDEA
 
@@ -34,7 +34,7 @@ Set up IntelliJ IDEA and created the first Java project.
 
 ## First Program
 
-A basic Java program was created and executed to verify the setup:
+A basic Java program used to verify the setup:
 
 ```java
 public class Main {
@@ -59,4 +59,4 @@ Phase-00-Setup
 
 ---
 
-For detailed setup steps and explanations, refer to the Day 000 folder.
+For detailed setup steps and explanations, refer to the **Day 000** folder.
