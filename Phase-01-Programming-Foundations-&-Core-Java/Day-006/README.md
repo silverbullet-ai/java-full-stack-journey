@@ -1,13 +1,11 @@
-# Day 6 — Arrays in Java
+# Day 6 – Array Manipulation in Java
 
 ## Objective
-Understand arrays, their operations, and manipulation techniques in Java.
+To understand arrays in Java and perform basic manipulation operations such as accessing, modifying, searching, sorting, and working with multi-dimensional arrays.
 
 ## Topics Covered
-- Introduction to arrays
-- Declaration and initialization
-- Accessing elements and length
-- Array manipulation (modify, sort, search, copy, resize)
-- Multidimensional arrays
-
-For detailed explanations, refer to **notes.md**.
+- Introduction to Arrays
+- Declaring and Initializing Arrays
+- Array Length and Accessing Elements
+- Array Manipulation (modify, sort, search, copy, resize)
+- Multi-Dimensional Arrays
