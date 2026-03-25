@@ -15,25 +15,23 @@ Think of a **Car blueprint**:
 - But actual cars are built using it
 
 👉 Class = blueprint  
-👉 Object = real entity
+👉 Object = real entity  
 
 ---
 
 ## What Does a Class Contain?
 
----
-
 ### 1. Data Members (Variables)
-Store data
+Store data  
 
 ### 2. Methods
-Define behavior
+Define behavior  
 
 ### 3. Constructor
-Used to initialize objects
+Used to initialize objects  
 
 ### 4. Nested Class
-Class inside another class (advanced usage)
+Class inside another class (advanced usage)  
 
 ---
 
@@ -66,7 +64,7 @@ Data (color, speed)
 Actions (drive, brake)
 
 3. Identity  
-Unique reference
+Unique reference  
 
 ---
 
@@ -74,9 +72,9 @@ Unique reference
 
 Car object:
 
-State → red, 120km/h  
-Behavior → drive()  
-Identity → car1  
+- State → red, 120km/h  
+- Behavior → drive()  
+- Identity → car1  
 
 ---
 
@@ -114,7 +112,6 @@ A constructor is a special method used to initialize objects.
 
 ### 🔹 1. Default Constructor
 
-Definition:
 Constructor with no parameters
 
 ```java
@@ -129,7 +126,6 @@ class Car {
 
 ### 🔹 2. Parameterized Constructor
 
-Definition:
 Constructor with parameters
 
 ```java
@@ -151,7 +147,6 @@ Car c1 = new Car("Red");
 
 ### 🔹 3. Copy Constructor
 
-Definition:
 Creates a new object by copying another object
 
 ```java
@@ -194,7 +189,6 @@ Encapsulation is wrapping data and methods into a single unit and restricting ac
 
 ### Real-World Analogy:
 Think of a capsule medicine:
-
 - Data is inside  
 - You can't access it directly  
 
