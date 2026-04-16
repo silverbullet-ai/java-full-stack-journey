@@ -38,7 +38,8 @@ To solve patterns:
 * * * *
 ```
 
-Logic:
+Logic:  
+
 Row 1 → 1 star  
 Row 2 → 2 stars  
 ...
