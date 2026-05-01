@@ -18,7 +18,7 @@ for (int i = 0; i < list.size(); i++) {
 for (int num : list) {
     System.out.println(num);
 }
-```java
+```
 
 ---
 
